@@ -6,7 +6,7 @@ indent() {
 
 echo "-----> Found a hello.txt"
 
-install_nodejs
+install_nodejs "node"
 
 
 
