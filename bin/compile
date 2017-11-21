@@ -6,6 +6,10 @@ indent() {
 
 echo "-----> Found a hello.txt"
 
+install_nodejs
+
+
+
 # if hello.txt has contents, display them (indented to align)
 # otherwise error
 
